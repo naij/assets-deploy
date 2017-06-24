@@ -1,0 +1,16 @@
+{
+  "name": "assets-deploy",
+  "version": "1.0.0",
+  "author": {
+    "name": "naij"
+  },
+  "private": true,
+  "dependencies": {
+    "moment": "^2.17.0",
+    "lodash": "^4.17.2",
+    "upyun": "^2.0.4",
+    "chalk": "^1.1.1",
+    "co-request": "^1.0.0",
+    "child-process-promise": "^2.2.1"
+  }
+}

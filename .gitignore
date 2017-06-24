@@ -1,0 +1,13 @@
+.DS_Store
+.*.swp
+.idea
+*.TODO
+*.log
+
+
+tmp/
+run/
+coverage/
+cov/
+logs/
+node_modules/
